@@ -38,7 +38,5 @@ public class P2pCrawler {
                 tds.clear();
             }
         }
-
-        List<Target> targets = new LinkedList<>();
     }
 }
